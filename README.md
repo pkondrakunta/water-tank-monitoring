@@ -23,6 +23,12 @@ When the city supply schedule is released, the person can trigger activating the
 
 All this data collected, can be referenced later to analyse the frequency of water fills, and using the time between turn on/off, we can measure water consumption of the house and analyse causes of more/less comsumption. Maybe we can even detect invisible leaks if my consumption has been a lot lately without any reason!
 
+# My Java Components
+https://github.com/pkondrakunta/connected-devices-gda
+
+# My Python Components
+https://github.com/pkondrakunta/connected-devices-cda
+
 ## Results - Expected Outcomes 
 
 Here are some metrics to determine the success of the project.
@@ -32,5 +38,5 @@ Here are some metrics to determine the success of the project.
 * THe ability to automate the turn on /off events using threshold triggers (like turn off motor when tank reaches 90% or 95%)
 
 
-> Here is a breakdown of the tasks completed:
+> Here is a Kanban breakdown of the tasks completed:
 > [Programming the IoT Kanban Board](https://github.com/orgs/programming-the-iot/projects/1)
