@@ -15,7 +15,7 @@ For the households, monitoring the water level in the tank and the schedule of t
 ## How - Expected Technical Approach
 
 Using a water level sensor and a servo motor to handle a valve to the water tank, we can automated the manual task of water tank filling. Not only can we monitor the water level without the need to physically access the tank, we can also trigger the turn off of the sensors remotely. Furthermore, we can automate the process using event triggers to turn off water supply after it touches 95% (for example).
-![project_architecture](imagelink)
+![project_architecture](https://github.com/pkondrakunta/water-tank-monitoring/blob/main/project_architecture_final.png)
 
 At the Edge Tier, the architecture diagram depicts constrained device’s measurement of water level in the tank. These sensor readings are passed to the gateway device for processing and transmission to the Cloud Tier.
 
